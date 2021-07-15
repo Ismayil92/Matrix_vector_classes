@@ -1,0 +1,2 @@
+/usr/bin/ar qc libProject_LIBRARIES.a  CMakeFiles/Project_LIBRARIES.dir/src/matrix.cpp.o
+/usr/bin/ranlib libProject_LIBRARIES.a

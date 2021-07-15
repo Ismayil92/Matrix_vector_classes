@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/matrix.h
+cstring
+-
+cassert
+-
+iostream
+-
+initializer_list
+-
+
+/home/ismayil/Qt_workspace/work1/src/matrix.cpp
+matrix.h
+/home/ismayil/Qt_workspace/work1/src/matrix.h
+iomanip
+-
+

@@ -1,0 +1,3 @@
+/home/ismayil/Qt_workspace/work1/build/CMakeFiles/rebuild_cache.dir
+/home/ismayil/Qt_workspace/work1/build/CMakeFiles/work1.dir
+/home/ismayil/Qt_workspace/work1/build/CMakeFiles/edit_cache.dir

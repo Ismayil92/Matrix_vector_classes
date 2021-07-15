@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/matrix.h
+cstring
+-
+cassert
+-
+iostream
+-
+initializer_list
+-
+
+../include/vector.h
+iostream
+-
+cstring
+-
+cassert
+-
+initializer_list
+-
+matrix.h
+-
+
+/home/ismayil/Qt_workspace/work1/main.cpp
+iostream
+-
+matrix.h
+-
+vector.h
+-
+
